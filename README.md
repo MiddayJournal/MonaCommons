@@ -39,3 +39,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [English](https://github.com/MiddayJournal/MonaCommons/blob/master/License_en_oss.md), [Japanese](https://github.com/MiddayJournal/MonaCommons/blob/master/License_ja_oss.md)
 
+# Inspired by
+
+MIT License, and Creative Commons
